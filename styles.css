@@ -1,0 +1,519 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre Caslon Text:wght@400;700");
+@import url("https://api.fontshare.com/css?f[]=libre caslon text@400,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open Sans Hebrew:wght@300;400;700");
+@import url("https://api.fontshare.com/css?f[]=open sans hebrew@300,400,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700");
+@import url("https://api.fontshare.com/css?f[]=lato@400,700&display=swap");
+
+p,
+ol,
+ul {
+  margin: 0px;
+}
+
+button {
+  padding: 0px;
+}
+
+ol,
+ul {
+  padding-inline-start: 1.5em;
+}
+
+.slide-16976-slide-16976x {
+  overflow: clip;
+  background-color: rgba(251, 251, 251, 1);
+  position: relative;
+  height: 7368.75px;
+  width: 5200px;
+}
+
+.slide-16976-layout-7 {
+  font-weight: 700;
+  color: rgba(0, 0, 0, 0.7);
+  font-family: Libre Caslon Text;
+  text-align: center;
+}
+
+.slide-16976-frame-4667x-1 {
+  padding-top: 52px;
+  padding-right: 65px;
+  padding-left: 65px;
+  padding-bottom: 52px;
+  justify-content: center;
+  align-items: center;
+  gap: 19.21px;
+  width: 1243.75px;
+  height: 302.08px;
+  box-sizing: border-box;
+  position: absolute;
+  left: 343px;
+  top: 2497px;
+  background-color: rgba(250, 249, 248, 1);
+  box-shadow: 0px 0px 0px 2px rgba(0, 0, 0, 0.6) inset;
+  box-shadow-width: 2px;
+  display: flex;
+  border-radius: 24px;
+}
+
+.slide-16976-psicologa-diseo {
+  position: relative;
+  line-height: 1;
+}
+
+.slide-16976-psicologa-diseo-text-0x {
+  display: inline;
+  font-size: 61.47px;
+}
+
+.slide-16976-component-text-1x {
+  display: inline;
+  white-space: pre;
+  letter-spacing: 0.475em;
+  font-size: 61.47px;
+}
+
+.slide-16976-logo-sobre-moda-femenina-minimalista-neutral-11x {
+  position: absolute;
+  top: 2121px;
+  left: 2630px;
+  height: 1563px;
+  width: 1563px;
+}
+
+.slide-16976-logo-sobre-moda-femenina-minimalista-neutral-1x {
+  background-repeat: no-repeat;
+  background-position: -56.48px -93.54px;
+  background-size: 126.49% 137.99%;
+  background-image: url(https://uortjlczjmucmpaqqhqm.supabase.co/storage/v1/object/public/firejet-converted-images/images/5723d220dfc36e345509370b51201399f67b2e87.webp);
+  position: absolute;
+  top: 35px;
+  left: 184px;
+  height: 484px;
+  width: 528px;
+}
+
+.slide-16976-layout-10 {
+  font-weight: 700;
+  color: rgba(0, 0, 0, 0.7);
+  font-family: Libre Caslon Text;
+  text-align: left;
+}
+
+.slide-16976-frame-4746x {
+  align-items: right;
+  justify-content: right;
+  display: flex;
+  gap: 225px;
+  top: 233px;
+  left: 3000px;
+  position: absolute;
+}
+
+.slide-16976-inicio {
+  font-size: 83.33px;
+}
+
+.slide-16976-portafolio {
+  font-size: 83.33px;
+}
+
+.slide-16976-blog {
+  font-size: 83.33px;
+}
+
+.slide-16976-rectangle-2191x {
+  background-color: rgba(232, 227, 222, 1);
+  position: absolute;
+  top: 1000px;
+  left: 204px;
+  height: 1105.64px;
+  width: 1105.64px;
+}
+
+.slide-16976-frame-4745x {
+  overflow: clip;
+  background-color: rgba(202, 189, 179, 1);
+  top: 806px;
+  left: 609px;
+  position: absolute;
+  height: 1105.64px;
+  width: 1105.64px;
+}
+
+.slide-16976-presentacin-marca-personal-propuesta-conferencia-taller-webinar-orgnica-pastel-1x {
+  background-repeat: no-repeat;
+  background-position: -339.16px 0px;
+  background-size: 204.8% 103.97%;
+  background-image: url(https://uortjlczjmucmpaqqhqm.supabase.co/storage/v1/object/public/firejet-converted-images/images/2a98c8cbd9f584bb3954dabef8dc2ce636f383fa.webp);
+  position: absolute;
+  left: 75.46px;
+  bottom: -15.27px;
+  top: -56.5px;
+  height: 1177.4185791015625px;
+  width: 1062.65234375px;
+}
+
+.slide-16976-layout-14 {
+  text-align: center;
+}
+
+.slide-16976-frame-4753x {
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+  gap: 175px;
+  top: 994px;
+  left: 2500px;
+  position: absolute;
+}
+
+.slide-16976-frame-4751x {
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 51px;
+  box-sizing: border-box;
+  display: flex;
+  padding: 10px;
+  font-family: Libre Caslon Text;
+  color: rgba(0, 0, 0, 0.7);
+  font-weight: 700;
+}
+
+.slide-16976-hola {
+  font-size: 192.09px;
+  width: 1940.08px;
+}
+
+.slide-16976-soy-natalia {
+  font-size: 192.09px;
+  width: 1940.08px;
+}
+
+.slide-16976-frame-4752x {
+  font-family: Open Sans Hebrew;
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+  gap: 105px;
+}
+
+.slide-16976-frame-4749x {
+  font-weight: 300;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.slide-16976-frame-4748x {
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  display: flex;
+  gap: 164px;
+  height: 698px;
+}
+
+.slide-16976-estudiante-de-psicol {
+  letter-spacing: 0.015em;
+  font-size: 61.47px;
+  width: 1590.48px;
+}
+
+.slide-16976-frame-4750x {
+  font-weight: 700;
+  color: rgba(0, 0, 0, 0.55);
+  gap: 176px;
+}
+
+.slide-16976-frame-4743x {
+  padding: 19px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  gap: 19.21px;
+  box-sizing: border-box;
+}
+
+.slide-16976-bienvenido-ami-mun {
+  font-size: 60px;
+  width: 1386px;
+}
+
+.slide-16976-slide-16954x {
+  overflow: clip;
+  background-color: rgba(232, 227, 222, 0.3);
+  filter: drop-shadow(0px 8.33px 8.333333015441895px rgba(0, 0, 0, 0.15) inset);
+  left: calc(50% - 2000px + 0px);
+  bottom: -0.75px;
+  position: absolute;
+  height: 3937.5px;
+  width: 4000px;
+  background: rgba(232, 227, 222, 0.30);
+box-shadow: 0px 8.33333px 8.33333px 0px rgba(0, 0, 0, 0.15) inset;
+}
+
+.slide-16976-layout-19 {
+  font-weight: 700;
+  text-align: left;
+  font-family: Lato;
+}
+
+.slide-16976-footer-1 {
+  height: 643.8125px;
+  width: 5200px;
+  filter: drop-shadow(0px 8.33px 8.329999923706055px rgba(0, 0, 0, 0.15));
+  bottom: 0px;
+  top: 83.65%;
+  right: 0.03%;
+  left: -0.03%;
+  position: absolute;
+  box-shadow: 0px 8.33px 8.33px 0px rgba(0, 0, 0, 0.15);
+  }
+
+.slide-16976-slide-16977x {
+  max-width: 5200px;
+  width: 100%;
+  height: 643.81px;
+  left: 0;
+  top: 0;
+  position: absolute;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25) inset);
+  background-color: rgba(250, 250, 250, 1);
+  box-shadow: 0px 8.33px 8.33px 0px rgba(0, 0, 0, 0.15);
+}
+
+.slide-16976-producto {
+  max-width: 437.26px;
+  width: 10.93%;
+  left: 10.21%;
+  right: 78.86%;
+  top: 30.09%;
+  bottom: 60.74%;
+  position: absolute;
+  font-size: 41.67px;
+  line-height: 1.41;
+  color: rgba(29, 29, 27, 0.9);
+  display: inline;
+}
+
+.slide-16976-recursos {
+  max-width: 611.69px;
+  width: 15.29%;
+  left: 42.34%;
+  right: 42.36%;
+  top: 30.09%;
+  bottom: 60.74%;
+  position: absolute;
+  font-size: 41.67px;
+  line-height: 1.41;
+  color: rgba(29, 29, 27, 0.9);
+  display: inline;
+}
+
+.slide-16976-concenos {
+  max-width: 451.6px;
+  width: 11.29%;
+  left: 24.84%;
+  right: 63.87%;
+  top: 30.09%;
+  bottom: 60.74%;
+  position: absolute;
+  font-size: 41.67px;
+  line-height: 1.41;
+  color: rgba(29, 29, 27, 0.9);
+  display: inline;
+}
+
+.slide-16976-host {
+  max-width: 387.08px;
+  width: 9.68%;
+  left: 10.21%;
+  right: 80.11%;
+  top: 59.22%;
+  bottom: 31.62%;
+  position: absolute;
+  font-size: 41.67px;
+  line-height: 1.41;
+  color: rgba(29, 29, 27, 0.7);
+  display: inline;
+}
+
+.slide-16976-sobre-nosotros {
+  max-width: 387.08px;
+  width: 9.68%;
+  left: 24.84%;
+  right: 65.48%;
+  top: 45.63%;
+  bottom: 45.21%;
+  position: absolute;
+  font-size: 41.67px;
+  line-height: 1.41;
+  color: rgba(29, 29, 27, 0.7);
+  display: inline;
+}
+
+.slide-16976-centro-de-ayuda {
+  max-width: 387.08px;
+  width: 9.68%;
+  left: 42.34%;
+  right: 47.98%;
+  top: 45.63%;
+  bottom: 45.21%;
+  position: absolute;
+  font-size: 41.67px;
+  line-height: 1.41;
+  color: rgba(29, 29, 27, 0.7);
+  display: inline;
+}
+
+.slide-16976-condiciones {
+  max-width: 387.08px;
+  width: 9.68%;
+  left: 42.34%;
+  right: 47.98%;
+  top: 59.22%;
+  bottom: 31.62%;
+  position: absolute;
+  font-size: 41.67px;
+  line-height: 1.41;
+  color: rgba(29, 29, 27, 0.7);
+  display: inline;
+}
+
+.slide-16976-nete-ala-comunidad {
+  max-width: 511.33px;
+  width: 12.78%;
+  left: 24.84%;
+  right: 62.37%;
+  top: 59.22%;
+  bottom: 31.62%;
+  position: absolute;
+  font-size: 41.67px;
+  line-height: 1.41;
+  color: rgba(29, 29, 27, 0.7);
+  display: inline;
+}
+
+.slide-16976-activamente {
+  max-width: 387.08px;
+  width: 9.68%;
+  left: 10.21%;
+  right: 80.11%;
+  top: 45.63%;
+  bottom: 45.21%;
+  position: absolute;
+  font-size: 41.67px;
+  line-height: 1.41;
+  color: rgba(29, 29, 27, 0.7);
+  display: inline;
+}
+
+.slide-16976-frame-4621x {
+  position: absolute;
+  top: 222.92px;
+  left: 2560.41px;
+  height: 201px;
+  width: 2000px;
+}
+
+.slide-16976-layout-16 {
+  font-weight: 700;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.7);
+  font-family: Libre Caslon Text;
+}
+
+.slide-16976-portafolio-1 {
+  font-size: 150px;
+  position: absolute;
+  top: 316.75px;
+  left: 266px;
+}
+
+.slide-16976-layout-17 {
+  text-align: justify;
+  font-family: Open Sans Hebrew;
+}
+
+.slide-16976-layout-18 {
+  position: relative;
+  place-items: center;
+  display: grid;
+  height: 2041.632080078125px;
+  width: 2340px;
+}
+
+.slide-16976-frame-4743x-1 {
+  max-width: 2354.7px;
+  width: 100.63%;
+  height: 2056.33px;
+  box-sizing: border-box;
+  position: absolute;
+  top: 876.75px;
+  left: calc(50% - 1170px + 756px);
+  filter: drop-shadow(0px 5.88px 5.879528999328613px rgba(0, 0, 0, 0.25));
+  background-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 7.35px;
+  border-color: rgba(246, 244, 243, 1);
+  border-radius: 19.1px;
+}
+
+.slide-16976-la-aplicacin-activa {
+  font-weight: 400;
+  color: rgba(0, 0, 0, 0.65);
+  display: inline-block;
+  line-height: 1;
+  top: 1665.37px;
+  left: 130.82px;
+  position: absolute;
+  width: 2078.41px;
+  height: 163.16px;
+}
+
+.slide-16976-la-aplicacin-text-0x {
+  display: inline;
+  letter-spacing: 0.015em;
+  font-size: 60.21px;
+}
+
+.slide-16976-activa-mente-text-1x {
+  display: inline;
+  letter-spacing: 0.015em;
+  font-style: italic;
+  font-size: 60.21px;
+}
+
+.slide-16976-es-la-solucin-perf-text-2x {
+  display: inline;
+  letter-spacing: 0.015em;
+  font-size: 60.21px;
+}
+
+.slide-16976-vista-previa-del-pro {
+  display: inline;
+  color: rgba(0, 0, 0, 0.6);
+  letter-spacing: 0.015em;
+  font-weight: 700;
+  font-size: 94.07px;
+  position: absolute;
+  left: calc(50% - 599.5px + -439.68px);
+  top: 1450.78px;
+}
+
+.slide-16976-portada_1x {
+  border-radius: 19.1px;
+  background-size: cover;
+  background-position: center;
+  background-image: url(https://uortjlczjmucmpaqqhqm.supabase.co/storage/v1/object/public/firejet-converted-images/images/dc2d09e98832ba915ebcd1e7bc00355eb21d5c53.webp);
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-sizing: border-box;
+  height: 1316.14px;
+  width: 2340px;
+}
